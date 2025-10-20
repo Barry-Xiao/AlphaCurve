@@ -1,2 +1,2 @@
-# alpha_diveristy_mp
+# AlphaCurve
 Calculate alpha diversity curve at multiple depths in a multi-process fashion
